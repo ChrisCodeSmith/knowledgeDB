@@ -1,0 +1,12 @@
+# DNS
+
+## Unsorted Command Collection
+```
+hostname --all-ip-addresse
+```
+
+```
+systemd-resolve --status
+vim /etc/systemd/resolved.conf
+systemctl restart systemd-resolved.service
+```
